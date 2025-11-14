@@ -1,1 +1,1 @@
-# java-module-1
+# java-module
